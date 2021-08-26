@@ -2,7 +2,7 @@
 - 👀 I’m interested in Azure/Powershell
 - 🌱 I’m currently learning Azure/Powershell
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Pm
+- 📫 How to reach me Gitlab
 
 <!---
 chim1aap/chim1aap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
